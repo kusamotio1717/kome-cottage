@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "kome-website",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["next", "dev", "--turbopack"],
+      "port": 3000,
+      "cwd": "/Users/kusadai/all/interplay/04_clients/yamanashi/website"
+    }
+  ]
+}
